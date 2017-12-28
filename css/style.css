@@ -99,6 +99,12 @@ a:hover {
    float: left; 
 }
 
+#logo-text {
+    font-family: "Baloo Bhaijaan";
+    font-size: 1.2em;
+    color: hotpink;
+}
+
 #social-icons {
    color: #fff;
    float: right;
@@ -177,7 +183,7 @@ a:hover {
 }
 
 #showcase {
-   height: 600px;
+   height: 650px;
    background-image: url('https://images.pexels.com/photos/179107/pexels-photo-179107.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb');
    background-size: cover;
    background-repeat: no-repeat;
@@ -234,7 +240,7 @@ a:hover {
 }
 
 #services-overview p {
-	color: rebeccapurple;
+	color: black;
     font-size: 1.2em;
 }
 
@@ -257,6 +263,11 @@ a:hover {
    background-color: #4cdef5;
    height: 400px;
    margin-top: 50px;
+}
+
+#footer .col-md-4 ul li {
+   display: block;
+ 
 }
 
 #map {
